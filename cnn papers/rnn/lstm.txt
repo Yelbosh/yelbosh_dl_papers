@@ -1,0 +1,3 @@
+http://www.willamette.edu/~gorr/classes/cs449/lstm.html
+
+http://people.idsia.ch/~juergen/lstm/sld001.htm
